@@ -1,2 +1,6 @@
 dist
 *.egg-info
+.vscode/
+cause I can't make it use a string.io object
+__pycache__
+

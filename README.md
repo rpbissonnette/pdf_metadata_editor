@@ -1,8 +1,19 @@
+
+![This is a screen capture](file://Screenshot.png)
+
 # Quick and Dirty PDF metadata Editor
 
 ## Allows copy and paste from the pdf into entry widgets that get copied into the metadata on save.
 
+Uses PyMuPDF and then MuPDF to do the hard work working with pdfs.
+Uses PySide6 and thence the Qt libraries to handle the GUI bits.
+
+So this is just a 300 something line script tying them together.
+
 ### Usage:
+
+In the src/pdf_metadata_editor directory, you can just call it thusly:
+
 python metadata.py  arg
 
 Where arg can either:
