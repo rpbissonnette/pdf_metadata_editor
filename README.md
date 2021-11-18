@@ -1,5 +1,5 @@
 
-![This is a screen capture](file://Screenshot.png)
+![This is a sample screen capture](https://github.com/rpbissonnette/pdf_metadata_editor/blob/main/Screenshot.png)
 
 # Quick and Dirty PDF metadata Editor
 
