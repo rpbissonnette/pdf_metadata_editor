@@ -10,6 +10,14 @@ Uses PySide6 and thence the Qt libraries to handle the GUI bits.
 
 So this is just a 300 something line script tying them together.
 
+The idea is that you can see the rendered first page of the pdf in one pane,
+select and copy text from the center, and then paste into the edit fields 
+on the left.
+
+Why would one want to bother?  Well IF a pdf has its metadata nicely set, 
+Then apps like Calibre (https://calibre-ebook.com/) can import them in a 
+more intelligent manner...
+
 ### Usage:
 
 In the src/pdf_metadata_editor directory, you can just call it thusly:
